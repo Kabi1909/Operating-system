@@ -1,0 +1,11 @@
+// Adds the Read-only attribute to abc.txt
+ATTRIB +R abc.txt
+
+// Removes the Read-only attribute from abc.txt
+ATTRIB -R abc.txt
+
+// Adds the Hidden attribute to abc.txt
+ATTRIB +H abc.txt
+
+// Removes the Hidden attribute to abc.txt
+ATTRIB -H abc.txt
