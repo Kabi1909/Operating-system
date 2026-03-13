@@ -1,2 +1,3 @@
 I'm Kabi
 let's crack it
+i played with js
